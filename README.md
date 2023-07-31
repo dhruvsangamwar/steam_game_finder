@@ -22,15 +22,15 @@ The instructions below will allow you to run this project on your local computer
 1. Run the following command in the terminal to download a copy of the repo to your local machine
 
 ```bash
-  git clone +++
+  git clone "repo link"
 ```
 
-- Navigate into the new sub-folder created called **calhacks-2023**.
+- Navigate into the new sub-folder created called **steam_game_finder**.
 
 2. After the project repo is downloaded navigate into the project directory
 
 ```bash
-  cd STEAM_GAME_FINDER
+  cd steam_game_finder
 ```
 
 3. Manually open Docker desktop or run the command below to open Docker
